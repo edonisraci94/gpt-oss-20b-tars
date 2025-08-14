@@ -1,5 +1,6 @@
-# GPT-OSS-20B-Tars: Voice-Activated Chatbot with Ollama
+# GPT-OSS-20B-Tars: Voice-Activated Chatbot
 Note: I could not really add Tars as an activation word, my microphone did not quite pick it up well. Maybe some awesome poeple out there might fix this ;) 
+It runs pretty good on my RTX3060.
 
 This project lets you interact with the `gpt-oss:20b` model using your voice, with wake-word activation ("Machine") and spoken responses. It runs locally but can be adapted for online use with proper server and microphone/browser support.
 
