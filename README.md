@@ -1,3 +1,9 @@
+## Third-Party Acknowledgments
+
+This project uses OpenAI’s **gpt-oss-20b** model (pulled at runtime via Ollama). Model license: Apache 2.0 — see Hugging Face’s LICENSE. Model card: OpenAI’s gpt-oss model card. No model weights are distributed here.
+
+
+
 # Local OpenAI gpt-oss-20b voice assistant (TARS-style)
 Note: I could not really add Tars as an activation word, my microphone did not quite pick it up well. Maybe some awesome poeple out there might fix this ;) 
 It runs pretty good on my RTX3060.
@@ -45,12 +51,3 @@ pip install -r requirements.txt‚
 ## Troubleshooting
 - If you get a `PyAudio` error, make sure `portaudio19-dev` and `python3-pyaudio` are installed.
 - For microphone issues, check your system's audio settings and permissions. I used a cheap Microphone, and well the results where not the best, but sometimes it got what i said really good. 
-
-# NOTES 
-
-Third-Party Model
-This project uses OpenAI gpt-oss-20b (fetched at runtime via Ollama).
-Model license: Apache License 2.0 — see the model’s LICENSE on Hugging Face.
-Model card/usage notes: see OpenAI’s gpt-oss model card.
-We do not distribute model weights in this repository.
-
