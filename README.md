@@ -46,6 +46,7 @@ pip install -r requirements.txt‚
 - If you get a `PyAudio` error, make sure `portaudio19-dev` and `python3-pyaudio` are installed.
 - For microphone issues, check your system's audio settings and permissions. I used a cheap Microphone, and well the results where not the best, but sometimes it got what i said really good. 
 
+# NOTES 
 
 Third-Party Model
 This project uses OpenAI gpt-oss-20b (fetched at runtime via Ollama).
