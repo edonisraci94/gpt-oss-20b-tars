@@ -2,6 +2,7 @@
 
 This project uses OpenAI’s **gpt-oss-20b** model (pulled at runtime via Ollama). Model license: Apache 2.0 — see Hugging Face’s LICENSE. Model card: OpenAI’s gpt-oss model card. No model weights are distributed here.
 
+## Trademark Disclaimer: “OpenAI” and “TARS” are trademarks owned by their respective entities. This project is independently developed and not affiliated with OpenAI or the creators of Interstellar.
 
 
 # Local OpenAI gpt-oss-20b voice assistant (TARS-style)
