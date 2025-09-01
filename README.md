@@ -22,7 +22,7 @@ This project lets you interact with the `gpt-oss:20b` model using your voice, wi
 - Python 3.8+
 - [Ollama](https://ollama.com/) installed and running
 - Microphone and speakers
-- Linux (for other OS, adjust dependencies as needed) --> I currently tested in only on Linux Ubuntu 24.04 
+- Linux (for other OS, adjust dependencies as needed) --> I currently tested it only on Linux Ubuntu 24.04 
 
 ### Python dependencies
 - `pyttsx3` (text-to-speech)
